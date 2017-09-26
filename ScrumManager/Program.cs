@@ -18,7 +18,7 @@ namespace ScrumManager
                 .UseStartup<Startup>()
                 .UseApplicationInsights()
                 .Build();
-
+            //am i here
             host.Run();
         }
     }
