@@ -1,0 +1,12 @@
+D:\SE1_WS\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.deps.json
+D:\SE1_WS\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.runtimeconfig.json
+D:\SE1_WS\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.runtimeconfig.dev.json
+D:\SE1_WS\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.dll
+D:\SE1_WS\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.csprojResolveAssemblyReference.cache
+D:\SE1_WS\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.csproj.CoreCompileInputs.cache
+D:\SE1_WS\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.AssemblyInfoInputs.cache
+D:\SE1_WS\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.AssemblyInfo.cs
+D:\SE1_WS\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\client_secret.json
+D:\SE1_WS\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.pdb
+D:\SE1_WS\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.dll
+D:\SE1_WS\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.pdb
