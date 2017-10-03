@@ -9,4 +9,3 @@ C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Release\netcoreapp2.0\
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Release\netcoreapp2.0\ScrumManager.csprojResolveAssemblyReference.cache
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Release\netcoreapp2.0\ScrumManager.dll
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Release\netcoreapp2.0\ScrumManager.pdb
-C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Release\netcoreapp2.0\client_secret.json.old

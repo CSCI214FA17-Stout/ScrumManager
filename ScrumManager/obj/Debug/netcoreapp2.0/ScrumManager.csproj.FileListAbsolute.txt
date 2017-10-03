@@ -15,10 +15,9 @@ C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\Sc
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.runtimeconfig.dev.json
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.dll
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.pdb
-C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.csprojResolveAssemblyReference.cache
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.csproj.CoreCompileInputs.cache
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.AssemblyInfoInputs.cache
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.AssemblyInfo.cs
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.dll
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.pdb
-C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\client_secret.json.old
+C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.csprojResolveAssemblyReference.cache

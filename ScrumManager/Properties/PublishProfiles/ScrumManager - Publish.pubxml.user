@@ -23,7 +23,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/03/2017 13:10:16</publishTime>
     </File>
     <File Include="client_secret.json">
-      <publishTime>10/03/2017 14:05:07</publishTime>
+      <publishTime>10/03/2017 15:51:22</publishTime>
     </File>
     <File Include="client_secret.json.old">
       <publishTime>10/03/2017 13:10:16</publishTime>
@@ -47,25 +47,25 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/02/2017 17:46:32</publishTime>
     </File>
     <File Include="ScrumManager.deps.json">
-      <publishTime>10/03/2017 14:25:50</publishTime>
+      <publishTime>10/03/2017 15:57:06</publishTime>
     </File>
     <File Include="ScrumManager.dll">
-      <publishTime>10/03/2017 14:25:47</publishTime>
+      <publishTime>10/03/2017 15:57:03</publishTime>
     </File>
     <File Include="ScrumManager.pdb">
-      <publishTime>10/03/2017 14:25:47</publishTime>
+      <publishTime>10/03/2017 15:57:03</publishTime>
     </File>
     <File Include="ScrumManager.PrecompiledViews.dll">
-      <publishTime>10/03/2017 14:25:49</publishTime>
+      <publishTime>10/03/2017 15:57:05</publishTime>
     </File>
     <File Include="ScrumManager.PrecompiledViews.pdb">
-      <publishTime>10/03/2017 14:25:49</publishTime>
+      <publishTime>10/03/2017 15:57:05</publishTime>
     </File>
     <File Include="ScrumManager.runtimeconfig.json">
-      <publishTime>10/03/2017 14:25:50</publishTime>
+      <publishTime>10/03/2017 15:57:06</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>10/03/2017 14:25:50</publishTime>
+      <publishTime>10/03/2017 15:57:06</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
       <publishTime>10/03/2017 13:10:16</publishTime>
