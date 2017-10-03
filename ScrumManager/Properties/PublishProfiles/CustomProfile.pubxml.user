@@ -23,6 +23,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/03/2017 13:10:16</publishTime>
     </File>
     <File Include="client_secret.json">
+      <publishTime>10/03/2017 14:05:07</publishTime>
+    </File>
+    <File Include="client_secret.json.old">
       <publishTime>10/03/2017 13:10:16</publishTime>
     </File>
     <File Include="Google.Apis.Auth.dll">
@@ -47,10 +50,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/03/2017 14:01:13</publishTime>
     </File>
     <File Include="ScrumManager.dll">
-      <publishTime>10/03/2017 14:01:05</publishTime>
+      <publishTime>10/03/2017 14:09:10</publishTime>
     </File>
     <File Include="ScrumManager.pdb">
-      <publishTime>10/03/2017 14:01:05</publishTime>
+      <publishTime>10/03/2017 14:09:10</publishTime>
     </File>
     <File Include="ScrumManager.PrecompiledViews.dll">
       <publishTime>10/03/2017 14:01:12</publishTime>
@@ -107,6 +110,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/03/2017 13:10:17</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>10/03/2017 13:10:17</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
       <publishTime>10/03/2017 13:10:17</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot">
