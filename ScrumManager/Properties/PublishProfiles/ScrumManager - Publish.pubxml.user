@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPXx2W9WznkCmEjch+tQsUAAAAAACAAAAAAAQZgAAAAEAACAAAADHDxYkqyTigoHUbWDPjSvq/QMCfpMQxsq++6I8SO9g7QAAAAAOgAAAAAIAACAAAADXgRmXrJwWtD6n5vuts8z15Y0dY+QeWm2Qtr7XK6/60CAAAAB5+JiEpQJA2uGE/W3vYCpnrjITShxs/9jZCCqkfAKXZUAAAAA9ew2pFUu8G0aNc9RNmeXTyyFoOF/PSSRh37YfuwO9DMixObsOK2yk6oPiZQK5wIH4P90+yzazddASePD/s8WO</EncryptedPassword>
-    <_PublishTargetUrl>ftp://192.185.10.193/wwwroot</_PublishTargetUrl>
+    <_PublishTargetUrl>ftp://192.185.10.193/ScrumManager</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.Development.json">
@@ -47,25 +47,25 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/02/2017 17:46:32</publishTime>
     </File>
     <File Include="ScrumManager.deps.json">
-      <publishTime>10/03/2017 14:01:13</publishTime>
+      <publishTime>10/03/2017 14:25:50</publishTime>
     </File>
     <File Include="ScrumManager.dll">
-      <publishTime>10/03/2017 14:09:10</publishTime>
+      <publishTime>10/03/2017 14:25:47</publishTime>
     </File>
     <File Include="ScrumManager.pdb">
-      <publishTime>10/03/2017 14:09:10</publishTime>
+      <publishTime>10/03/2017 14:25:47</publishTime>
     </File>
     <File Include="ScrumManager.PrecompiledViews.dll">
-      <publishTime>10/03/2017 14:01:12</publishTime>
+      <publishTime>10/03/2017 14:25:49</publishTime>
     </File>
     <File Include="ScrumManager.PrecompiledViews.pdb">
-      <publishTime>10/03/2017 14:01:12</publishTime>
+      <publishTime>10/03/2017 14:25:49</publishTime>
     </File>
     <File Include="ScrumManager.runtimeconfig.json">
-      <publishTime>10/03/2017 14:01:13</publishTime>
+      <publishTime>10/03/2017 14:25:50</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>10/03/2017 14:01:13</publishTime>
+      <publishTime>10/03/2017 14:25:50</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
       <publishTime>10/03/2017 13:10:16</publishTime>

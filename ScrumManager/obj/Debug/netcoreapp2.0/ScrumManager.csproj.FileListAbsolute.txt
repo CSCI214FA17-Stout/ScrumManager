@@ -10,7 +10,6 @@ D:\SE1_WS\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\client_secret.json
 D:\SE1_WS\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.pdb
 D:\SE1_WS\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.dll
 D:\SE1_WS\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.pdb
-C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\client_secret.json
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.deps.json
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.runtimeconfig.json
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\ScrumManager.runtimeconfig.dev.json
@@ -22,3 +21,4 @@ C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\Sc
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.AssemblyInfo.cs
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.dll
 C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp2.0\ScrumManager.pdb
+C:\Users\joshu\Source\Repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp2.0\client_secret.json.old
