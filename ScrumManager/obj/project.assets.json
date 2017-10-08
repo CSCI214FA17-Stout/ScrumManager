@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshu\\source\\repos\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
+      "projectUniqueName": "c:\\users\\joshu\\source\\repos\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
       "projectName": "ScrumManager",
-      "projectPath": "C:\\Users\\joshu\\source\\repos\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
+      "projectPath": "c:\\users\\joshu\\source\\repos\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
       "packagesPath": "C:\\Users\\joshu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshu\\source\\repos\\ScrumManager\\ScrumManager\\obj\\",
+      "outputPath": "c:\\users\\joshu\\source\\repos\\ScrumManager\\ScrumManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
