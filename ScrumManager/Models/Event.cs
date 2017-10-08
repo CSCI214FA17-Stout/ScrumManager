@@ -14,8 +14,8 @@ namespace ScrumManager.Models
         string eventLocation;
         DateTime startTime;
         DateTime endTime;
-        list<Person> invitees;
-        list<Person> attendees;
+        List<Person> invitees;
+        List<Person> attendees;
         string Notes;
 
         //constructor
@@ -26,8 +26,8 @@ namespace ScrumManager.Models
             this.eventLocation = eventLocation;
             this.startTime = startTime;
             this.endTime = endTime;
-            this.invitees = new list<Person>();
-            this.attendees = new list<Person>();
+            this.invitees = new List<Person>();
+            this.attendees = new List<Person>();
             this.Notes = "";
         }
 
