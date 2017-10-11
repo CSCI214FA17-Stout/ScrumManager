@@ -1,4 +1,5 @@
-﻿using ScrumManager.Models;
+﻿
+using ScrumManager.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
