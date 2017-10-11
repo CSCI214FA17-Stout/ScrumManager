@@ -9,14 +9,14 @@ namespace ScrumManager.Models
     public class Event
     {
         //event componenets
-        string eventName;
-        string eventType;
-        string eventLocation;
-        DateTime startTime;
-        DateTime endTime;
-        List<Person> invitees;
-        List<Person> attendees;
-        string Notes;
+        string eventName {get; set;}
+        string eventType { get; set; }
+        string eventLocation { get; set; }
+        DateTime startTime { get; set; }
+        DateTime endTime { get; set; }
+        List<Person> invitees { get; set; }
+        List<Person> attendees { get; set; }
+        string Notes { get; set; }
 
         //constructor
         Event(string eventName, string eventType, string eventLocation, DateTime startTime, DateTime endTime)
