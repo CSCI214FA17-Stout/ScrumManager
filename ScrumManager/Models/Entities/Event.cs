@@ -19,16 +19,10 @@ namespace ScrumManager.Models
         public string Notes { get; set; }
 
         //constructor
-        public Event(string eventName, string eventType, string eventLocation, DateTime startTime, DateTime endTime)
+        public Event()
         {
-            this.eventName = eventName;
-            this.eventType = eventType;
-            this.eventLocation = eventLocation;
-            this.startTime = startTime;
-            this.endTime = endTime;
             this.invitees = new List<Person>();
             this.attendees = new List<Person>();
-            this.Notes = "";
         }
 
     }
