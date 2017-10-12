@@ -5,3 +5,8 @@ C:\Users\hardy\source\repos\cloned\ScrumManager\ScrumManager\ScrumManager\obj\De
 C:\Users\hardy\source\repos\cloned\ScrumManager\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.csproj.CoreCompileInputs.cache
 C:\Users\hardy\source\repos\cloned\ScrumManager\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
 C:\Users\hardy\source\repos\cloned\ScrumManager\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.AssemblyInfo.cs
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.AssemblyInfo.cs
