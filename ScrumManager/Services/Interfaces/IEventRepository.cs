@@ -8,9 +8,13 @@ namespace ScrumManager.Services.Interfaces
 {
     public interface IEventRepository
     {
-        List<Event> ReadAll();
+       List<Event> ReadAll();
 
-        Event Create(Event event);
+       Event Create(Event ev);
+
+       Event Read(int id);
+
+       void Update(int id, Event ev);
 
     }
 }
