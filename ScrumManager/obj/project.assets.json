@@ -10941,7 +10941,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\joshu\\.nuget\\packages\\": {}
+    "C:\\Users\\Ashley\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -10949,14 +10949,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshu\\Documents\\GitHub\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
+      "projectUniqueName": "C:\\Users\\Ashley\\Desktop\\ScrumManager-holleyi_calendar\\ScrumManager-holleyi_calendar\\ScrumManager\\ScrumManager.csproj",
       "projectName": "ScrumManager",
-      "projectPath": "C:\\Users\\joshu\\Documents\\GitHub\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
-      "packagesPath": "C:\\Users\\joshu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshu\\Documents\\GitHub\\ScrumManager\\ScrumManager\\obj\\",
+      "projectPath": "C:\\Users\\Ashley\\Desktop\\ScrumManager-holleyi_calendar\\ScrumManager-holleyi_calendar\\ScrumManager\\ScrumManager.csproj",
+      "packagesPath": "C:\\Users\\Ashley\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ashley\\Desktop\\ScrumManager-holleyi_calendar\\ScrumManager-holleyi_calendar\\ScrumManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joshu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ashley\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
