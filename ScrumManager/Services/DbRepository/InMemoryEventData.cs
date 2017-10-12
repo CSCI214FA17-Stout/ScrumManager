@@ -15,11 +15,11 @@ namespace ScrumManager.Services.DbRepository
             var lastEvent = _events.LastOrDefault();
             if (lastEvent != null)
             {
-                ev.id = lastEvent.id + 1;
+                ev.ID = lastEvent.ID + 1;
             }
             else
             {
-                ev.id = 1;
+                ev.ID = 1;
             }
             _events.Add(ev);
             return ev;
@@ -27,7 +27,7 @@ namespace ScrumManager.Services.DbRepository
 
         public void Delete(int id)
         {
-            var ev = _events.FirstOrDefault(r => r.id == id);
+            var ev = _events.FirstOrDefault(r => r.ID == id);
             if (ev != null)
             {
                 _events.Remove(ev);
@@ -36,7 +36,7 @@ namespace ScrumManager.Services.DbRepository
 
         public Event Read(int id)
         {
-            return _events.FirstOrDefault(r => r.id == id);
+            return _events.FirstOrDefault(r => r.ID == id);
         }
 
         public ICollection<Event> ReadAll()
@@ -46,19 +46,19 @@ namespace ScrumManager.Services.DbRepository
 
         public void Update(int id, Event ev)
         {
-            var oldEvent = _events.FirstOrDefault(r => r.id == id);
+            var oldEvent = _events.FirstOrDefault(r => r.ID == id);
             if (oldEvent != null)
             {
                 
-                oldEvent.eventName = ev.eventName;
-                oldEvent.eventType = ev.eventType;
-                oldEvent.eventLocation = ev.eventLocation;
-                oldEvent.startTime = ev.startTime;
-                oldEvent.endTime = ev.endTime;
-                oldEvent.eventType = ev.eventType;
-                oldEvent.invitees = ev.invitees;
-                oldEvent.attendees = ev.attendees;
-                oldEvent.notes = ev.notes;
+                oldEvent.EventName = ev.EventName;
+                oldEvent.EventType = ev.EventType;
+                oldEvent.EventLocation = ev.EventLocation;
+                oldEvent.StartTime = ev.StartTime;
+                oldEvent.EndTime = ev.EndTime;
+                oldEvent.EventType = ev.EventType;
+                oldEvent.Invitees = ev.Invitees;
+                oldEvent.Attendees = ev.Attendees;
+                oldEvent.Notes = ev.Notes;
 
             }
         }

@@ -60,7 +60,7 @@ namespace ScrumManager.Controllers
         {
             if (ModelState.IsValid)
             {
-                _Events.Update(ev.id, ev);
+                _Events.Update(ev.ID, ev);
                 return RedirectToAction("Index");
             }
             return View(ev);
