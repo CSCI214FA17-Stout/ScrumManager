@@ -10941,7 +10941,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hardy\\.nuget\\packages\\": {}
+    "C:\\Users\\joshu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -10949,14 +10949,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\hardy\\source\\repos\\cloned\\ScrumManager\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
+      "projectUniqueName": "C:\\Users\\joshu\\Documents\\GitHub\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
       "projectName": "ScrumManager",
-      "projectPath": "C:\\Users\\hardy\\source\\repos\\cloned\\ScrumManager\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
-      "packagesPath": "C:\\Users\\hardy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hardy\\source\\repos\\cloned\\ScrumManager\\ScrumManager\\ScrumManager\\obj\\",
+      "projectPath": "C:\\Users\\joshu\\Documents\\GitHub\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
+      "packagesPath": "C:\\Users\\joshu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joshu\\Documents\\GitHub\\ScrumManager\\ScrumManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hardy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joshu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10964,12 +10964,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

@@ -1,0 +1,12 @@
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Release\netcoreapp1.1\ScrumManager.deps.json
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Release\netcoreapp1.1\ScrumManager.runtimeconfig.json
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Release\netcoreapp1.1\ScrumManager.runtimeconfig.dev.json
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Release\netcoreapp1.1\ScrumManager.dll
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Release\netcoreapp1.1\ScrumManager.pdb
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Release\netcoreapp1.1\ScrumManager.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Release\netcoreapp1.1\ScrumManager.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Release\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Release\netcoreapp1.1\ScrumManager.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Release\netcoreapp1.1\ScrumManager.AssemblyInfo.cs
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Release\netcoreapp1.1\ScrumManager.dll
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Release\netcoreapp1.1\ScrumManager.pdb
