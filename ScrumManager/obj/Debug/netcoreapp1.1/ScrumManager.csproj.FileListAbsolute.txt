@@ -29,3 +29,15 @@ C:\Users\Ashley\Desktop\ScrumManager-holleyi_calendar\ScrumManager-holleyi_calen
 C:\Users\Ashley\Desktop\ScrumManager-holleyi_calendar\ScrumManager-holleyi_calendar\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.AssemblyInfo.cs
 C:\Users\Ashley\Desktop\ScrumManager-holleyi_calendar\ScrumManager-holleyi_calendar\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.dll
 C:\Users\Ashley\Desktop\ScrumManager-holleyi_calendar\ScrumManager-holleyi_calendar\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.pdb
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.deps.json
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.runtimeconfig.json
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.runtimeconfig.dev.json
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.dll
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.pdb
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.AssemblyInfo.cs
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.dll
+C:\Users\joshu\Documents\GitHub\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.pdb

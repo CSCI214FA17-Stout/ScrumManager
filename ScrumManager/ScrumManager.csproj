@@ -6,6 +6,10 @@
     <UserSecretsId>aspnet-ScrumManager-E63C439D-27D0-4F38-9A35-1AB885F07088</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Properties\PublishProfiles\scrummanager - Web Deploy.pubxml" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
