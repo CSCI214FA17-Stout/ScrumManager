@@ -16,5 +16,6 @@ namespace ScrumManager.Services.Interfaces
 
        void Update(int id, Event ev);
 
+        void Delete(int id);
     }
 }

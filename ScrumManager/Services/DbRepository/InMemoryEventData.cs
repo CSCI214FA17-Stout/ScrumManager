@@ -15,11 +15,11 @@ namespace ScrumManager.Services.DbRepository
             var lastEvent = _events.LastOrDefault();
             if (lastEvent != null)
             {
-                ev.ID = lastEvent.ID + 1;
+                ev.Id = lastEvent.Id + 1;
             }
             else
             {
-                ev.ID = 1;
+                ev.Id = 1;
             }
             _events.Add(ev);
             return ev;
@@ -27,7 +27,7 @@ namespace ScrumManager.Services.DbRepository
 
         public void Delete(int id)
         {
-            var ev = _events.FirstOrDefault(r => r.ID == id);
+            var ev = _events.FirstOrDefault(r => r.Id == id);
             if (ev != null)
             {
                 _events.Remove(ev);
@@ -36,7 +36,7 @@ namespace ScrumManager.Services.DbRepository
 
         public Event Read(int id)
         {
-            return _events.FirstOrDefault(r => r.ID == id);
+            return _events.FirstOrDefault(r => r.Id == id);
         }
 
         public ICollection<Event> ReadAll()
@@ -46,7 +46,7 @@ namespace ScrumManager.Services.DbRepository
 
         public void Update(int id, Event ev)
         {
-            var oldEvent = _events.FirstOrDefault(r => r.ID == id);
+            var oldEvent = _events.FirstOrDefault(r => r.Id == id);
             if (oldEvent != null)
             {
                 

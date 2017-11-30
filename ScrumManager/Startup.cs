@@ -12,6 +12,8 @@ using Microsoft.Extensions.Logging;
 using ScrumManager.Data;
 using ScrumManager.Models;
 using ScrumManager.Services;
+using ScrumManager.Models.DbContexts;
+using ScrumManager.Services.Interfaces;
 
 namespace ScrumManager
 {
@@ -43,11 +45,15 @@ namespace ScrumManager
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
+            services.AddDbContext<ScrumManagerDbContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("ScrumManager")));
+
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
             services.AddMvc();
+            services.AddScoped<IEventRepository, DbEventRepository>();
 
             // Add application services.
             services.AddTransient<IEmailSender, AuthMessageSender>();

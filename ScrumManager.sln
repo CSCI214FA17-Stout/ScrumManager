@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumManager", "ScrumManager\ScrumManager.csproj", "{C7903B8E-7334-440B-BD46-ED7F8235459F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrumManager", "ScrumManager\ScrumManager.csproj", "{76E788CA-A5EA-4A1A-9A08-95B4EEC1CE7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C7903B8E-7334-440B-BD46-ED7F8235459F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7903B8E-7334-440B-BD46-ED7F8235459F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7903B8E-7334-440B-BD46-ED7F8235459F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7903B8E-7334-440B-BD46-ED7F8235459F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E788CA-A5EA-4A1A-9A08-95B4EEC1CE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E788CA-A5EA-4A1A-9A08-95B4EEC1CE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E788CA-A5EA-4A1A-9A08-95B4EEC1CE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E788CA-A5EA-4A1A-9A08-95B4EEC1CE7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0AA44629-0767-4984-89FF-D9DE0271C44E}
+		SolutionGuid = {5F341E7A-159E-4E1B-826B-50D977F0DFDB}
 	EndGlobalSection
 EndGlobal

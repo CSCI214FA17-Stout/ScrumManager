@@ -17,16 +17,16 @@ namespace ScrumManager.Controllers
 
 
 
-        private IEventRepository _Events;
+        private IEventRepository _events;
 
         public EventController(IEventRepository ev)
         {
-            _Events = ev;
+            _events = ev;
         }
 
         public IActionResult Index()
         {
-            return View(_Events.ReadAll());
+            return View(_events.ReadAll());
         }
 
         public IActionResult Create()
@@ -39,7 +39,7 @@ namespace ScrumManager.Controllers
         {
             if (ModelState.IsValid)
             {
-                _Events.Create(ev);
+                _events.Create(ev);
                 return RedirectToAction("Index");
             }
             return View();
@@ -47,7 +47,7 @@ namespace ScrumManager.Controllers
 
         public IActionResult Edit(int id)
         {
-            var ev = _Events.Read(id);
+            var ev = _events.Read(id);
             if (ev == null)
             {
                 return RedirectToAction("Index");
@@ -60,7 +60,7 @@ namespace ScrumManager.Controllers
         {
             if (ModelState.IsValid)
             {
-                _Events.Update(ev.ID, ev);
+                _events.Update(ev.Id, ev);
                 return RedirectToAction("Index");
             }
             return View(ev);
@@ -68,7 +68,7 @@ namespace ScrumManager.Controllers
 
         public IActionResult Details(int id)
         {
-            var recommendation = _Events.Read(id);
+            var recommendation = _events.Read(id);
             if (recommendation == null)
             {
                 return RedirectToAction("Index");
@@ -78,19 +78,21 @@ namespace ScrumManager.Controllers
 
         public IActionResult Delete(int id)
         {
-            var ev = _Events.Read(id);
-            if (ev == null)
+            var Person = _events.Read(id);                  //get person to remove corresponding to given id
+            if (Person == null)                              //if person isn't found
             {
-                return RedirectToAction("Index");
-            }
-            return View(ev);
-        }
-/*
-        [HttpPost, ActionName("Delete")]
+                return RedirectToAction("Index");           //return to Index view
+            }//if
+            return View(Person);                            //else go to Post view
+        }//get delete
+
+        [HttpPost, ValidateAntiForgeryToken, ActionName("Delete")]
         public IActionResult DeleteConfirmed(int id)
         {
-            _Events.Delete(id);
+            _events.Delete(id);                             //delete the person corresponding to the given ID
             return RedirectToAction("Index");
-        }*/
+
+
+        }
     }
 }
