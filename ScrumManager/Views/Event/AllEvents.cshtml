@@ -4,29 +4,11 @@
     ViewData["Title"] = "Index";
 }
 
-<h2>Upcoming Events</h2>
+<h2>Index</h2>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-
-@{var date = DateTime.Today; }
-@for (var i = 0; i < 7; i++)
-{
-   
-    <h3>
-    @date.AddDays(i).DayOfWeek 
-        &nbsp;&nbsp;
-    @date.AddDays(i).Month 
-    /
-    @date.AddDays(i).Day
-    /
-    @date.AddDays(i).Year
-
-        
-        
-    </h3>
-
 <table class="table">
     <thead>
         <tr>
@@ -54,12 +36,8 @@
             <th></th>
         </tr>
     </thead>
-
     <tbody>
-@foreach (var item in Model)
-{
-    @if((item.StartTime.Date == date.AddDays(i)))
-    {
+@foreach (var item in Model) {
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Id)
@@ -88,9 +66,6 @@
                 @Html.ActionLink("Delete", "Delete", new { id = item.Id })
             </td>
         </tr>
-    }
- }
-
+}
     </tbody>
 </table>
-}
