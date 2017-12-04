@@ -100,5 +100,10 @@ namespace ScrumManager.Controllers
 
 
         }
+
+        public IActionResult Help()
+        {
+            return View();
+        }
     }
 }

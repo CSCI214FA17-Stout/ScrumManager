@@ -10958,11 +10958,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\hardy\\source\\repos\\Cloned\\ScrumManager\\ScrumManager.csproj",
+      "projectUniqueName": "C:\\Users\\hardy\\Documents\\GitHub\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
       "projectName": "ScrumManager",
-      "projectPath": "C:\\Users\\hardy\\source\\repos\\Cloned\\ScrumManager\\ScrumManager.csproj",
+      "projectPath": "C:\\Users\\hardy\\Documents\\GitHub\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
       "packagesPath": "C:\\Users\\hardy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hardy\\source\\repos\\Cloned\\ScrumManager\\obj\\",
+      "outputPath": "C:\\Users\\hardy\\Documents\\GitHub\\ScrumManager\\ScrumManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hardy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10973,18 +10973,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
