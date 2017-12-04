@@ -8,9 +8,10 @@ using ScrumManager.Models.DbContexts;
 namespace ScrumManager.Migrations
 {
     [DbContext(typeof(ScrumManagerDbContext))]
-    partial class ScrumManagerDbContextModelSnapshot : ModelSnapshot
+    [Migration("20171204004409_quad")]
+    partial class quad
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")

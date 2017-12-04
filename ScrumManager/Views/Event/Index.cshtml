@@ -7,14 +7,14 @@
 <h2>Upcoming Events</h2>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-controller="Event" asp-action="Create">Create New</a>
 </p>
 
 @{var date = DateTime.Today; }
 @for (var i = 0; i < 7; i++)
 {
    
-    <h3>
+    <h4>
     @date.AddDays(i).DayOfWeek 
         &nbsp;&nbsp;
     @date.AddDays(i).Month 
@@ -25,7 +25,7 @@
 
         
         
-    </h3>
+    </h4>
 
 <table class="table">
     <thead>
@@ -58,7 +58,8 @@
     <tbody>
 @foreach (var item in Model)
 {
-    @if((item.StartTime.Date == date.AddDays(i)))
+   
+    @if((item.StartTime.Date == date.AddDays(i)) && (User.IsInRole(item.RoleName) || User.IsInRole("Admin")) )
     {
         <tr>
             <td>

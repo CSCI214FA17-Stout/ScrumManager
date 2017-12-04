@@ -28,15 +28,21 @@ namespace ScrumManager.Controllers
         {
             return View(_events.ReadAll());
         }
+        public IActionResult AllEvents()
+        {
+            return View(_events.ReadAll());
+        }
 
         public IActionResult Create()
         {
+            
             return View();
         }
 
         [HttpPost]
         public IActionResult Create(Event ev)
         {
+
             if (ModelState.IsValid)
             {
                 _events.Create(ev);

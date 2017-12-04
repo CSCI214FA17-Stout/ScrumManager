@@ -1,0 +1,46 @@
+@model Lab12Authentication.Models.ViewModels.AssignRoleVM
+
+@{
+    ViewData["Title"] = "Assign Roles";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="AssignRole">
+    <div class="form-horizontal">
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="UserName" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <select asp-for="UserName" id="User" class="form-control">
+                    @foreach(var user in Model.UserNames)
+                    {
+                        <option value="@user">@user</option>
+                    }
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="RoleName" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <select asp-for="RoleName" id="Role" class="form-control">
+                    @foreach (var role in Model.RoleNames)
+                    {
+                        <option value="@role">@role</option>
+                    }
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Assign" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to User List</a>
+</div>
+

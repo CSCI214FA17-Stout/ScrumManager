@@ -43,12 +43,12 @@ namespace ScrumManager.Models
                 display += Events[i].EventName + "\t\t";
                 display += Events[i].EventLocation + "\t";
                 display += Events[i].EventType + "\t";
-                display += Events[i].Invitees[0].ToString() + "\t";
-                for(int j = 1; j < Events[i].Invitees.Count; j++)
-                {
-                    display += "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + Events[i].Invitees[j].ToString();
-                }
-                display += "\n\n";
+               // display += Events[i].Invitees[0].ToString() + "\t";
+               // for(int j = 1; j < Events[i].Invitees.Count; j++)
+               // {
+               //     display += "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t" + Events[i].Invitees[j].ToString();
+               // }
+               // display += "\n\n";
             }
 
             return display;

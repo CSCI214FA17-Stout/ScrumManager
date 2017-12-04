@@ -1,9 +1,12 @@
 @model ScrumManager.Models.Event
 
+
 @{
     ViewData["Title"] = "Create";
 }
+@{ 
 
+}
 <h2>Create</h2>
 
 <form asp-action="Create">
@@ -52,6 +55,24 @@
             <div class="col-md-10">
                 <input asp-for="Notes" class="form-control" />
                 <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="RoleName" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <select asp-for="RoleName" id="Role" class="form-control">
+                    @{List<string> groups = new List<string>();
+                        groups.Add("TeamA");
+                        groups.Add("TeamB");
+                        groups.Add("Admin");
+                        groups.Add("User");
+                        }
+                    @foreach (var role in groups)
+                    {
+                        <option value="@role">@role</option>
+                    }
+                </select>
             </div>
         </div>
         <div class="form-group">

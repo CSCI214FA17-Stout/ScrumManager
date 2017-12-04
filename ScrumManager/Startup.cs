@@ -14,6 +14,7 @@ using ScrumManager.Models;
 using ScrumManager.Services;
 using ScrumManager.Models.DbContexts;
 using ScrumManager.Services.Interfaces;
+using ScrumManager.Services.DbRepository;
 
 namespace ScrumManager
 {
@@ -58,6 +59,9 @@ namespace ScrumManager
             // Add application services.
             services.AddTransient<IEmailSender, AuthMessageSender>();
             services.AddTransient<ISmsSender, AuthMessageSender>();
+            services.AddSingleton<Initializer>();
+
+            services.AddScoped<IAuthenticationRepository, DbAuthenticationRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

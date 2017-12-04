@@ -10,3 +10,15 @@ c:\users\hardy\source\repos\ScrumManager\ScrumManager\bin\Debug\netcoreapp1.1\Sc
 c:\users\hardy\source\repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.dll
 c:\users\hardy\source\repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.pdb
 C:\Users\hardy\source\repos\ScrumManager\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.csprojResolveAssemblyReference.cache
+C:\Users\hardy\source\repos\Cloned\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.deps.json
+C:\Users\hardy\source\repos\Cloned\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.runtimeconfig.json
+C:\Users\hardy\source\repos\Cloned\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.runtimeconfig.dev.json
+C:\Users\hardy\source\repos\Cloned\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.dll
+C:\Users\hardy\source\repos\Cloned\ScrumManager\bin\Debug\netcoreapp1.1\ScrumManager.pdb
+C:\Users\hardy\source\repos\Cloned\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.csproj.CoreCompileInputs.cache
+C:\Users\hardy\source\repos\Cloned\ScrumManager\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\hardy\source\repos\Cloned\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.AssemblyInfoInputs.cache
+C:\Users\hardy\source\repos\Cloned\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.AssemblyInfo.cs
+C:\Users\hardy\source\repos\Cloned\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.dll
+C:\Users\hardy\source\repos\Cloned\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.pdb
+C:\Users\hardy\source\repos\Cloned\ScrumManager\obj\Debug\netcoreapp1.1\ScrumManager.csprojResolveAssemblyReference.cache

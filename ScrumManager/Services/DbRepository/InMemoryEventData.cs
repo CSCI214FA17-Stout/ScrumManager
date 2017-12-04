@@ -56,8 +56,8 @@ namespace ScrumManager.Services.DbRepository
                 oldEvent.StartTime = ev.StartTime;
                 oldEvent.EndTime = ev.EndTime;
                 oldEvent.EventType = ev.EventType;
-                oldEvent.Invitees = ev.Invitees;
-                oldEvent.Attendees = ev.Attendees;
+                //oldEvent.Invitees = ev.Invitees;
+               // oldEvent.Attendees = ev.Attendees;
                 oldEvent.Notes = ev.Notes;
 
             }

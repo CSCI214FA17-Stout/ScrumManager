@@ -10958,11 +10958,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\hardy\\source\\repos\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
+      "projectUniqueName": "C:\\Users\\hardy\\source\\repos\\Cloned\\ScrumManager\\ScrumManager.csproj",
       "projectName": "ScrumManager",
-      "projectPath": "C:\\Users\\hardy\\source\\repos\\ScrumManager\\ScrumManager\\ScrumManager.csproj",
+      "projectPath": "C:\\Users\\hardy\\source\\repos\\Cloned\\ScrumManager\\ScrumManager.csproj",
       "packagesPath": "C:\\Users\\hardy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hardy\\source\\repos\\ScrumManager\\ScrumManager\\obj\\",
+      "outputPath": "C:\\Users\\hardy\\source\\repos\\Cloned\\ScrumManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hardy\\AppData\\Roaming\\NuGet\\NuGet.Config",
